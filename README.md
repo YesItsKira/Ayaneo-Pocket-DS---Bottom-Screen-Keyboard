@@ -3,6 +3,8 @@
 This is a custom Android keyboard app designed specifically for the **Ayaneo Pocket DS**, providing a full on-screen keyboard on the bottom display while keeping the top screen unobstructed for apps and games.
 
 ---
+![Keyboard](P1020592.JPG)
+---
 
 ## Features
 
@@ -28,6 +30,8 @@ This is a custom Android keyboard app designed specifically for the **Ayaneo Poc
   - Clear step-by-step checklist
   - Live checkbox updates as each step is completed
 
+---
+![Keyboard](P1020595.JPG)
 ---
 
 ## How to Use
