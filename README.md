@@ -64,3 +64,8 @@ To hide the keyboard at any time, tap **Hide Keyboard** on the bottom display.
 
 This project is provided as-is for personal and community use.  
 See the license file for details.
+
+
+I dont charge for any of my projects and make them free for the communities they are in. If you like my stuff, id appreciate a tip!
+
+https://ko-fi.com/yesitskira
