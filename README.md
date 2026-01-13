@@ -1,5 +1,7 @@
 # Ayaneo Pocket DS - Bottom Screen Keyboard
 
+# This build is out of date. You can access the most up to date versions and all my other tools through a single app! PDS Utilities: https://github.com/YesItsKira/PDS-Utilities
+
 This is a custom Android keyboard app designed specifically for the **Ayaneo Pocket DS**, providing a full on-screen keyboard on the bottom display while keeping the top screen unobstructed for apps and games.
 
 ---
